@@ -1,0 +1,32 @@
+.container {
+    background-color: rgb(129, 126, 121);
+    width: 30%;
+    height: 30vh;
+    margin: 100px auto;
+    padding: 10px 20px;
+}
+
+/* h3 {
+    margin: 0;
+    padding: 0;
+} */
+
+.modalWindow {
+    background-color: rgb(189, 250, 229);
+    text-align: center;
+    padding: 10px;
+    margin: 15px;
+}
+
+.openModal {
+    background-color: rgb(129, 126, 121);
+    border: 1px solid rgb(48, 48, 48);
+}
+
+.closeModal {
+    width: 80%;
+}
+
+.hidden {
+    display: none;
+}

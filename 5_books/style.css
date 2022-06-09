@@ -1,0 +1,11 @@
+.container {
+    width: 60%;
+    background-color: bisque;
+    margin: 20px auto;
+    padding: 10px;
+
+}
+
+.orange {
+    background-color: orange;
+}

@@ -1,0 +1,29 @@
+.container {
+    width: 20%;
+    background-color: bisque;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.btn {
+    margin: 20px;
+    padding: 20px;
+}
+
+.row1 {
+    display: flex;
+    justify-content: end;
+}
+
+.row2 {
+    display: flex;
+    justify-content: start;
+}
+
+.tooltip {
+    position: absolute;
+    padding: 10px 20px;
+    text-align: center;
+    color: white;
+    background-color: rgb(127, 42, 167);
+}
